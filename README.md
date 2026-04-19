@@ -1,6 +1,6 @@
 # The RessWitchers
 
-![Hero Preview](https://via.placeholder.com/1200x600/D4AF37/1a1a1a?text=The+RessWitchers+-+Luxury+Dining)
+![The RessWitchers Logo](logo.png)
 
 **A pinnacle of culinary elegance where sophistication meets innovation in every bite. Immerse yourself in an unparalleled high-end dining experience crafted for the discerning palate.**
 
